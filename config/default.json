@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://viphacker:qwerty029@contactstorevip-dlm7v.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
