@@ -1,19 +1,8 @@
-# Contact Keeper API
+# Contact Saver API
 
-This is a Node/Express/MongoDB REST API for contacts that uses JWT authentication. All contact endpoints are protected and each registered user has their own contacts. This is used in my React course on Udemy. It is the API ONLY. The fullstack app can be found [here](https://github.com/bradtraversy/contact-keeper)
+A small application for saving contacts
 
-## Getting Started
-
-```
-  Open the config/default.json file and add your mongoURI and your jwtSecret
-```
-
-```bash
-  npm install
-  npm run server # Runs on http://localhost:5000
-```
-
-# API Usage & Endpoints
+# API Usage
 
 ## Register a User [POST /api/users]
 
